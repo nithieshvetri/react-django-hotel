@@ -1,0 +1,48 @@
+@media only screen and (max-width: 600px){
+    *{
+        padding:0px;
+        margin:0px;
+        box-sizing: border-box;
+    }
+    .footer{
+        display:block;
+    }
+    .cop{
+        margin:0px;
+
+    }
+    address{
+        margin:0px;
+    }
+    .container{
+        display:block;
+        text-align:center;
+        justify-content: center;
+
+
+    }
+    .container img{
+        height:40px;
+        width:70px;
+    }
+    .header a{
+        display:block;
+
+    }
+    .slide-1{    
+        background-size: cover;
+        width:100%;
+        height:300px;
+        overflow:hidden;
+    }
+.hotel{
+    display:block;
+}
+.ma{
+    display:block;
+}
+.mi{
+    display:bloack;
+}
+
+}
